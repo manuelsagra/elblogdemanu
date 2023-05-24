@@ -4,7 +4,7 @@ description: 'Y, curiosamnete, también comiendo cerdo'
 date: Wed, 28 Oct 2009 13:07:58 +0000
 draft: false
 tags: ['Internet', 'Madrid']
-categories: ['Events']
+categories: ['Eventos']
 ---
 
 {{< fg src="c1.webp" alt="Cochinete de Cucharete" >}}
