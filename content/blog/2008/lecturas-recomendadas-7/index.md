@@ -1,0 +1,29 @@
+---
+title: 'Lecturas recomendadas'
+description: 'Dos meses en uno'
+date: Mon, 01 Sep 2008 03:42:06 +0000
+draft: false
+tags: ['Internet']
+categories: ['Varios']
+---
+
+Este verano no he puesto mis listas de enlaces recomendados, así que esta vez vengo con ración doble :wink:
+
+*   [**La génesis de Turbo Girl, cuero sexy sobre ruedas**](http://elpixeblogdepedja.com/2008/08/la-genesis-de-turbo-girl-cuero-sexy-sobre-ruedas.html): No puedo estar más de acuerdo con **Pedja**, ya que "_Turbo Girl_" no es ni de lejos de lo peor que ha producido el software patrio... aunque también es posible que tuvo demasiado _hype_ en su día :wink:
+*   [**Unreal**](http://www.lacoctelera.com/jaimixx/post/2008/08/26/unreal-1998): Un buen artículo de uno de mis juegos favoritos, sobre todo por ser el comienzo de la saga "_Unreal Tournament_". No os perdáis tampoco su artículo sobre [Tim Schafer](http://www.lacoctelera.com/jaimixx/post/2008/08/12/tim-schafer-toque-humor).
+*   [**Cobertura "bloguera" de la GC**](http://www.dandel.net/category/videojuegos/games-convention/): **Dandel**, [Kristian](http://akihabarablues.com/) y [Jolupa](http://lagrann.es/) se fueron a la **Games Convention** y nos han dado una cobertura de lo más original, aunque personalmente me quedo con los reportajes frikis de **Dandel**. _Pseudoprensa_ en estado puro...
+*   [**Esperando a la alta definición, a la de verdad**](http://solo.infames.org/esperando-a-la-alta-definicion-a-la-de-verdad/): Aunque no estoy de acuerdo con todo lo que dice **Hugo**, este artículo da bastante que pensar con respecto a la supuesta era de la alta definición.
+*   [**Mi ranking jueguítico MSXero**](http://konamiman.blogspot.com/2008/08/mi-ranking-juegutico-msxero.html): **Konamiman** nos hace una interesante lista de sus juegos favoritos para **MSX**. Yo me he llevado alguna sorpresa, ¿y vosotros?
+*   [**Game Boy, historia de la consola más vendida de todos los tiempos**](http://www.pixfans.com/game-boy-historia-de-la-consola-mas-vendida-de-todos-los-tiempos/): Fue una pena la "tragedia" de **X-Tray**, pero afortunadamente **Jakcore** sigue publicando artículos geniales en Pixfans, como este sobre la historia de la consola más famosa de la historia... posiblemente :yum:
+*   [**Game Boy Light edición Famitsu ゲームボーイライト ファミ通限定版**](http://www.pepinismo.net/game-boy-light-famitsu-exclusive/): Hablando de **Game Boy**, **ale** se ha comprado esta edición tan chula y yo me muero de envidia... ¿vosotros no?
+*   [**Las Sagas de Sega: Panzer Dragoon**](http://www.anaitgames.com/las-sagas-de-sega-panzer-dragoon/): En **AnaitGames** siguen dando caña con los artículos sobre **SEGA**, y esta vez le toca a la saga "[Panzer Dragoon](/tag/panzer-dragoon/)". Por cierto, también hicieron lo propio con "[Jet Set Radio](http://www.anaitgames.com/las-sagas-de-sega-jet-set-radio/)", "[Wonder Boy](http://www.anaitgames.com/las-sagas-de-sega-wonder-boy/)", y [otras sagas memorables](http://www.anaitgames.com/las-sagas-de-sega-dynamite-duxbonanza-bros/).
+*   [**Las máquinas que nos hacen soñar (III): Sega Mega Drive**](http://jumafas.blogvideojuegos.com/2008/08/16/las-maquinas-que-nos-hacen-sonar-iii-sega-megadrive/): Siguiendo con la temática seguera, os dejo con este estupendo texto sobre su consola más exitosa, made by **Vecin** :wink:
+*   [**Dead Rising: Un homenaje al género**](http://yocreoqueno.wordpress.com/2008/08/11/dead-rising-un-homenaje-al-genero/): Todavía no he probado este juego, pero este artículo de **ElRosso** me ha puesto los dientes largos.
+*   [**Grandes mentiras de los videojuegos**](http://geekinlove.com/grandes-mentiras-de-los-videojuegos/): Las tiras de **Geek in Love** me encantan, pero esta ha sido especialmente friki.
+*   [**Zero Suit Samus**](http://pixelninja.se/photo.html): **Pixelninja** lo ha vuelto a hacer, ahora con un espectacular cosplay de nuestra heroína nintendera favorita...
+*   [**La Máquina del Tiempo (II). La evolución publicitaria de SEGA en los 8 bits**](http://www.warclimb.com/archives/1192): En **Warclimb** han hecho un interesante repaso a la publicidad seguera de nuestra infancia. ¿Te apuntas a un viaje en el tiempo?
+*   [**Inside Nintendo's Classic Game Console**](http://www.pcworld.com/article/148391/article.html): En **PC World** podemos ver una galería de una **Famicom** desmontada hasta la última pieza. Cuidado con vuestro corazoncito retro :wink:
+*   [**Hace 25 años...**](http://freakscity.blogspot.com/2008/07/hace-25-aos.html): **Dani** cumplió 25 años hace poco, y lo celebró con un post bastante friki... haciendo honor al nombre de su blog. ¡Felicidades atrasadas!
+*   [**ANALIS DIS: MGS4: GUNS OF THE PATRIOTS**](http://www.gamesajare.com/2.0/2008/07/04/analis-dis-mgs4-sons-of-the-patriots/): En **GamesAjare** nunca hacen los análisis "como Dios manda", y eso es lo que les hace grandes. Descubre porqué con su peculiar visión de "[Metal Gear Solid 4](/metal-gear-solid-4-guns-of-the-patriots-%c2%bfpelicula-o-videojuego/)".
+*   [**Alundra**](http://www.ionlitio.com/2008/07/10/alundra/): **El Tipo de la Brocha** es un crack, y lo demuestra con este tipo de artículos en **Ion Litio**. Por su parte, **Rafa** también hizo un buen trabajo con su [entrevista al director de "Quevida mástriste"](http://www.ionlitio.com/2008/07/09/entrevista-a-ruben-ontiveros-director-de-quevidamastriste/).
+*   [**Oropesa del Mar ayer y hoy**](http://luipermom.wordpress.com/category/fotografia/oropesa-del-mar-ayer-y-hoy/): Por mí recomendaba cada una de las entradas del blog de mi amigo **luipermom** --de hecho tenía que haber entrado en el [Blog Day](/blog-day-2008/)--, pero me quedo con estas curiosas estampas que muestran la evolución de uno de los pueblos más conocidos de la costa levantina.

@@ -1,0 +1,7 @@
+<figure class="youtube">
+  <a href="https://www.youtube.com/watch?v={{ .Get 0 }}" target="_blank">
+    {{ $imgURL := print "/static/img/youtube/" (.Get 0) ".webp" }}
+    {{ $img := imageConfig $imgURL }}
+    <img src="/img/youtube/{{ .Get 0 }}.webp" alt="Miniatura de YouTube" loading="lazy" decoding="async" width="{{ $img.Width }}" height="{{ $img.Height }}">
+  </a>
+</figure>

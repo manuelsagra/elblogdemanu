@@ -1,0 +1,30 @@
+---
+title: 'Lecturas recomendadas'
+description: 'Artículos de septiembre'
+date: Mon, 06 Oct 2008 03:35:57 +0000
+draft: false
+tags: ['Internet']
+categories: ['Varios']
+---
+
+Vamos a dar un repaso algunos de los mejores artículos que se han publicado en la blogosfera durante todo este mes de septiembre, después de un verano movidito :wink:
+
+*   [**"Double Dragon": Los dragones gemelos y sus versiones**](http://elpixeblogdepedja.com/2008/09/double-dragon-los-dragones-gemelos-y-sus-versiones.html): **Pedja** hace un repaso a esta mítica saga, y a todas sus versiones... algunas de ellas bastante oscurillas.
+*   [**Entrevista a Servando, traductor de Smash Bros. Brawl Dojo**](http://www.eltercero.net/2008/09/01/entrevistamos-a-servando-traductor-de-smash-bros-brawldojo/): Este tipo de artículos son los que hacen grandes a blogs como **eltercero**, ya que en ningún otro sitio vas a ver una entrevista tan personal y cercana.
+*   [**Dreamcast, la última apuesta de SEGA**](http://wildgames.es/retro-dreamcast-la-ultima-apuesta-de-sega/): En **Wildgames** han hecho un repaso a una de las consolas más grandes de la historia, y este mes tampoco se han olvidado de la [Game Boy](http://wildgames.es/retro-game-boy-el-nacimiento-de-las-portatiles/).
+*   [**Sagas de SEGA**](http://www.anaitgames.com/ficha/las-sagas-de-sega/): La redacción de **AnaitGames** sigue mostrando su peculiar relación de amor-odio con **SEGA** con más articulos de sus sagas míticas, como "_Crazy Taxi_" o "_After Burner_".
+*   [**Diario de un ex-empleado de SEGA España**](http://www.webxprs.com/blog/2008/09/12/diario-de-un-ex-empleado-de-sega-espana/): Hablando de esta compañía, **The Punisher**, -[un viejo conocido del blog](/entrevista-a-raul-monton/)\-, hace una pequeña introducción de cómo fue la experiencia de trabajar en **SEGA** hace unos años... queremos más.
+*   [**Bellas anécdotas veraniegas en el GAME, o la culpa es de la sociedad**](http://blogderandy.wordpress.com/2008/09/10/bellas-anecdotas-veraniegas-en-el-game-o-la-culpa-es-de-la-sociedad/): La verdad es que trabajar en una tienda de esta cadena tiene que ser algo bastante peculiar, y si no que se lo pregunten a **Randy** :wink:
+*   [**Entrevista a José Valero, PR de Marketing de EA España**](http://www.warclimb.com/archives/1260): Los chicos de **Warclimb** han hecho una simpática e interesante entrevista a un PR que tengo [el gusto de conocer en persona](/presentacion-de-fifa-09-en-madrid/)... seguro que te sorprende :wink:
+*   [**Cosplay con estilo por Pixelninja**](http://pixelninja.se/photo.html): **Pixel Ninja** lo ha vuelto a hacer. Si hace un tiempo [la veíamos como Samus Aran](/cosplay-de-samus-aran/), esta vez le toca emular a la Princesa Peach... impresionante lo de esta chica.
+*   [**Cómo se hizo "Metal Gear Solid 4: Guns of the Patriots"**](http://www.softimage.com/products/xsi/customer_stories/metal_gear_4/): En **Softimage** han publicado un interesante reportaje acerca de como se utilizaron las herramientas de esta compañía para crear [uno de los mejores juegos del año](/metal-gear-solid-4-guns-of-the-patriots-%C2%BFpelicula-o-videojuego/). Por cierto, no os perdáis tampoco el artículo sobre "[Virtua Fighter 5](http://www.softimage.com/community/customer_stories/virtua_fighter_5/default.aspx)".
+*   [**Entrevista al creador de "Bob's Game"**](http://www.lagrann.es/index.php?itemid=4918): Hay gente con sueños que no para hasta cumplirlos, y ese es el caso de **Robert Pelloni**, que ha dedicado gran parte de su vida a crear el juego que tenía en mente desde hace más de seis años.
+*   [**"Gradius" (1985)**](http://www.lacoctelera.com/jaimixx/post/2008/09/18/gradius-1985): **Jaimixx** no para, y este mes hemos podido disfrutar de artículos tan grandes como este.
+*   [**Una pequeña historia sobre manuales de videojuegos**](http://www.edge-online.com/magazine/a-short-history-game-manuals): Lo mejor de la revista **EDGE** -al menos la versión original-, es que algunos de los mejores textos se pueden disfrutar on-line, como este sobre manuales, o este otro sobre [**cómo mueren las consolas**](http://www.edge-online.com/features/how-consoles-die).
+*   [**Rincón Musical: La era de NES (I)**](http://modo7.blogspot.com/2008/09/rincon-msical-la-era-nes-i.html): Si quieres recordar algunas de las mejores músicas que nos brindó esta consola, no te pierdas este artículo de **Modo 7**.
+*   [**Como "Star Wars" ha cambiado el mundo**](http://www.wired.com/wired/archive/13.05/starwars.html): Está claro que el fenómeno "_Star Wars_" va más allá de las pantallas, y este curioso artículo de **Wired** lo demuestra. Por si no es muy evidente, utilizad los botones de la parte de abajo para moveros por la imagen.
+*   [**La cultura de "Star Wars"**](http://abduzeedo.com/the-star-wars-culture): Continuando con el universo creado por **Lucas**, **Abduzeedo** nos trae esta peculiar colección de imágenes, que seguro que os arranca alguna sonrisa... por cierto, ¿quién se anima con [el concurso del otro día](/concurso-de-star-wars-el-poder-de-la-fuerza/)?
+*   [**Entrevista con Ken Ishii (Primera Parte)**](http://www.efecte-d.com/22-09-2008/entrevista-con-ken-ishii-primera-parte/): **Efecte-D** ha tenido el privilegio de hablar con uno de los músicos japoneses más creativos de los últimos años... ¿para cuando la segunda parte?
+*   [**"Contra 4": Repaso a la saga y reflexiones de mercado**](http://www.dandel.net/contra-4-critica-repaso-a-la-saga-y-reflexiones-de-mercado/): Los colaboradores de **Dandel** están empezando a dar sus frutos... ¡y de que manera! Como ejemplo, este artículo sobre el último juego de [una de mis sagas favoritas](/contra/).
+*   [**"Tetris"**](http://jumafas.blogvideojuegos.com/2008/09/20/tetris/): ¿Quién no ha jugado nunca a este juego? Tanto si lo has hecho, como si no, no te pierdas este artículo de **Vecin**.
+*   [**La historia de las cosas de Annie Leonard**](http://www.ionlitio.com/2008/09/06/la-historia-de-las-cosas-de-annie-leonard/): Para terminar, os dejo con este vídeo que nos descubrió **Rafa** hace unos días, y que me ha hecho pensar bastante sobre nuestro modo de vida...

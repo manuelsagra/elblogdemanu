@@ -1,0 +1,28 @@
+baseURL = "https://elblogdemanu.com/"
+languageCode = "es-es"
+title = "El Blog de Manu"
+timeZone = "Europe/Madrid"
+
+enableEmoji = true
+paginate = 10
+
+[params]
+  description = "Bitácora de Manuel Sagra, un teleco madrileño. Escribo acerca de todo lo que me gusta, especialmente sobre juegos, cine, ocio y otras frikadas en general."
+  images = ['img/mai.png']
+
+[permalinks]
+  blog = "/:slugorfilename/"
+
+[outputFormats]
+  [outputFormats.RSS]
+    baseName = "feed"
+    mediatype = "application/rss"
+
+[sitemap]
+  changefreq = "monthly"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

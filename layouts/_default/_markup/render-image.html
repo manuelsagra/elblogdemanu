@@ -1,0 +1,2 @@
+{{ $img := .Page.Resources.GetMatch .Destination }}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" decoding="async"{{ if $img }} width="{{ $img.Width }}" height="{{ $img.Height }}"{{ end }}>

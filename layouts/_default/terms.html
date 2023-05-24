@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<section class="header">
+  <h2>{{ .Title }}</h2>
+</section>
+
+<ul>
+  {{ range .Data.Terms }}
+  <li>
+    <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> <span class="text-light">({{ .Count }})</span>
+  </li>
+  {{ end }}
+</ul>
+
+{{ end }}

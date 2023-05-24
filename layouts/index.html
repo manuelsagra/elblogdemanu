@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+{{ if .IsHome }}
+<section class="header">
+  <h2>¡Hola! 👋</h2>
+  <p>Me llamo <strong>Manuel Sagra</strong>, y este blog está dedicado a hablar de mis aficiones, pero sobre todo de videojuegos de todas las épocas y de curiosidades sobre los mismos. ¡Disfruta de la visita!</p>
+</section>
+{{ end }}
+
+<ul class="posts">
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+{{ range $paginator.Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    <time>{{ .Date.Format "2006-01-02" }}</time>
+    {{ if .Params.categories }}
+      &middot;
+      {{ range .Params.categories }}
+      <span>{{ . }}</span>
+      {{ end }}
+    {{ end }}
+    {{ if .Description }}<div>{{ .Description | markdownify }}</div>{{ end }}
+  </li>
+{{ end }}
+</ul>
+
+{{ template "partials/paginator.html" . }}
+
+{{ partial "footer.html" . }}

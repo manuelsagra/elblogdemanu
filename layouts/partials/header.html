@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {{ if .IsHome }}
+    <title>{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.Description }}" />
+    {{ else }}
+    <title>{{ .Title }} :: {{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Params.Description }}" />
+    {{ end }}
+
+    {{ if isset .Params "canonical" }}
+    <link rel="canonical" href="{{ .Params.canonical }}" />
+    {{ else }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ end }}
+
+    {{ if .Paginator }}
+      {{ if .Paginator.HasPrev }}
+      <link rel="prev" href="{{ .Paginator.Prev.URL | absURL }}" />
+      {{ end }}
+      {{ if .Paginator.HasNext }}
+      <link rel="next" href="{{ .Paginator.Next.URL | absURL }}" />
+      {{ end }}
+    {{ end }}
+
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+
+    {{ $stylemain := resources.Get "css/style.css" | minify | fingerprint "sha512" }}
+    <link rel="stylesheet" href="{{ $stylemain.RelPermalink }}" integrity="{{ $stylemain.Data.Integrity }}">
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+  </head>
+
+  <body>
+    <header>
+      <h1><a href="/">{{ .Site.Title }}</a></h1>
+    </header>

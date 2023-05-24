@@ -1,0 +1,27 @@
+---
+title: 'Lecturas recomendadas'
+description: 'Artículos de marzo'
+date: Wed, 01 Apr 2009 09:15:21 +0000
+draft: false
+tags: ['Internet']
+categories: ['Varios']
+---
+
+Este mes ha estado movidito por diversos motivos, y no he tenido demasiado tiempo de leer a fondo lo que se ha publicado en los blogs que sigo, pero aquí va una ración de artículos que creo que merecen la pena...
+
+*   [**Noticias idiotizantes (vol. 1)**](http://dandel.net/noticias-idiotizantes/noticias-idiotizantes-vol-1): No sé que es más divertido, si las noticias que comenta **Dani**, o los comentarios que se han generado al respecto... el ser humano no deja de sorprenderme :smile:
+*   [**La historia de la Gameboy**](http://luipermom.wordpress.com/2009/03/25/la-historia-de-la-gameboy/): El amigo **luipermom** se ha desmarcado con este articulazo sobre la portátil más famosa de todos los tiempos. Muy currado, y con unas fotillos la mar de interesantes.
+*   **Manual de buenas práctcas para bloggers** - [**Parte 2**](http://vgchannel.net/portal/index.php?option=com_content&view=article&id=145:manual-de-qbuenas-practicasq-para-bloggers-2-independencia-y-objetividad&catid=51:multi&Itemid=64), [**Parte 3**](http://vgchannel.net/portal/index.php?option=com_content&view=article&id=155:manual-de-qbuenas-practicasq-para-bloggers-3-reglas&catid=51:multi&Itemid=64), [**Parte 4**](http://vgchannel.net/portal/index.php?option=com_content&view=article&id=169:manual-de-qbuenas-practicasq-para-bloggers-4-examen-final&catid=51:multi&Itemid=64): **Irisar** sigue dando caña con su peculiar manual de "ética periodística", en clave de humor. Yo lanzo una pregunta al aire: ¿habrá alguien que se de por "aludido"?
+*   [**Último Número de MagazineZX**](http://www.speccy.org/magazinezx/index.php?revista=17): Pero vamos, el último definitivamente. Aunque ha creado cierta polémica en la escena, lo cierto es que este número viene cargadito de artículos interesantes, tanto los que son técnicos, como otros más "cercanos". Imprescindible la [entrevista a los hermanos Abril](http://www.speccy.org/magazinezx/index.php?revista=17&seccion=11).
+*   [**Mi Amstrad CPC, el misterioso interlocutor**](http://elpixeblogdepedja.com/2009/03/mi-amstrad-cpc-el-misterioso-interlocutor.html): Este artículo de **Pedja** me ha traído buenos recuerdos de la infancia, y de los primeros pinitos con la programación. Nos estamos haciendo viejunos, ¿eh?
+*   [**La complicación de lo simple**](http://www.mundowdg.com/blog/?p=244): Hace poco que he descubierto el blog de **Wardog**, pero con historias tan cachondas como esta, se ha convertido en uno de mis favoritos :wink:
+*   [**PC-FX: Una consola sin ánimo de triunfar**](http://beta-zero.com/e107_plugins/content/content.php?content.74): En **Beta-Zero** han publicado un especial sobre una consola poco conocida, que merece la pena conocer por lo peculiares que eran sus juegos.
+*   [**Robocop - La ley de Murphy**](http://www.ionlitio.com/2009/03/20/robocop-la-ley-de-murphy/): **Ion Litio** estrena otro redactor, con un texto excelente sobre [una de mis pelis favoritas](/peliculas-que-me-han-marcado-robocop/). Me están entrando ganas de verla otra vez...
+*   [**Los Ordenadores y el Cine**](http://www.gamesajare.com/2.0/2009/03/20/los-ordenadores-y-el-cine/): Hablando de pelis, en **GamesAjare** han reflexionado un poco acerca de los tópicos que hay en ellas cuando aparece algo informático. Falta el tópico del zoom infinito con interpolación perfecta :smile:
+*   [**Consolas Made in Spain**](http://www.retropia.es/articulos/192/consolas-made-in-spain.html): En **Retropia** nos muestran algunas consolas hechas en nuestro país, aunque alguna sea algo piratona :smile:
+*   [**Sprites, Hardware, Juegos de Ordenador y 3D en 8 bit**](http://rondreamcast.blogspot.com/2009/03/sprites-hardware-juegos-de-ordenador-y.html): **Ron** nos da una lección de retro-tecnología, repasando los ordenadores más populares de los ochenta, y sus capacidades gráficas.
+*   [**Sonic**](http://www.pixfans.com/sonic/): **Amorín Azuki** demuestra una vez más que lo suyo es escribir sobre videojuegos, y esta vez toca uno de los personajes más carismáticos de la historia. La pena que los últimos juegos del erizo azul no están a la altura de su leyenda...
+*   [**Shinobi**](http://jumafas.blogvideojuegos.com/2009/03/20/shinobi/): Otra saga carismática de **SEGA** es "_Shinobi_", que se ve reflejada perfectamente en este artículo de **Vecin**. Menudo estreno que tuvo en **Mega Drive**...
+*   [**Primer número de XBMagazine**](http://www.xbmagazine.es/): Después de tener un desencanto con **Nintendo**, el equipo que nos trajo las revistas **DSMagazine** y **N-Magazine** vuelve a la carga con una revista dedicada a **Xbox 360**. De momento, empieza bien, y con un formato realmente original.
+*   [**Los amish son hackers**](http://www.obsoletos.org/2009/03/los-amish-son-hackers/): Me ha encantado este artículo de **obsoletos**, ya que he aprendido que hay bastante más de lo que aparenta detrás de la cultura amish...
+*   [**1 añito de Danteneverdies**](http://danteneverdies.wordpress.com/2009/03/31/1-anito/): Para terminar, os dejo con un artículo recopilatorio de algunas coñas de **Danteneverdies**, un gran blog que he descubierto hace poco, y que se ríe de todo y de todos :wink:

@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<article>
+    <header>
+      <h1>{{ .Title | markdownify }}</h1>
+      {{ if (gt .Params.date 0) }}<time>{{ .Date.Format "2006-01-02" }}</time>{{ end }}
+
+      {{ if .Params.categories }}
+      &middot;
+      <ul class="categories">
+        {{ range .Params.categories }} {{ $href := print (absURL "categories/") (urlize .) }}
+        <li>
+          <a href="{{ $href }}">{{ . }}</a>
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+      {{ if .Description }}
+      <p>{{ .Description | markdownify }}</p>
+      {{ end }}
+    </header>
+
+    <main>
+    {{ .Content }}
+    </main>
+
+    {{ if .Params.tags }}
+    <ul class="tags">
+      {{ range .Params.tags }} {{ $href := print (absURL "tags/") (urlize .) }}
+      <li>
+        <a href="{{ $href }}">{{ . }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ if and (gt (len $pages) 1) (in $pages . ) }}
+    <nav class="posts">
+      {{ with $pages.Prev . }}
+      <a href="{{ .Permalink }}" rel="prev">
+        <span>← Anterior</span>
+        {{ .Name | markdownify }}
+      </a>
+      {{ end }}
+      {{ with $pages.Next . }}
+      <a href="{{ .Permalink }}" rel="next">
+        <span>Siguiente →</span>
+        {{ .Name | markdownify }}
+      </a>
+      {{ end }}
+    </nav>
+    {{ end }}
+</article>
+
+{{ end }}

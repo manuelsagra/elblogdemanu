@@ -1,0 +1,17 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<nav class="posts">
+  {{ if $pag.HasPrev }}
+  <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}"{{ end }} rel="prev" aria-label="Anterior">
+    <span>← Anterior</span>
+    Entradas más modernas
+  </a>
+  {{ end }}
+  {{ if $pag.HasNext }}
+  <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}"{{ end }} rel="next" aria-label="Siguiente">
+    <span>Siguiente →</span>
+    Entradas más antiguas
+  </a>
+  {{ end }}
+</nav>
+{{ end }}

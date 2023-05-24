@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<section class="header">
+  <h2>{{ .Title }}</h2>
+</section>
+
+<ul class="posts">
+  {{ $paginator := .Paginate (where .Pages "Section" "!=" "") }}
+  {{ range $paginator.Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+      <time>{{ .Date.Format "2006-01-02" }}</time>
+      {{ if .Params.categories }}
+        &middot;
+        {{ range .Params.categories }}
+        <span>{{ . }}</span>
+        {{ end }}
+      {{ end }}
+      {{ if .Description }}<div>{{ .Description | markdownify }}</div>{{ end }}
+    </li>
+  {{ end }}
+  </ul>
+  
+  {{ template "partials/paginator.html" . }}
+
+{{ end }}

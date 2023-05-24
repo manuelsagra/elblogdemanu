@@ -1,0 +1,7 @@
+<figure class="twitter">
+  <a href="https://twitter.com/{{ .Get 0 }}/status/{{ .Get 1 }}" target="_blank">
+    {{ $imgURL := print "/static/img/twitter/" (.Get 1) ".webp" }}
+    {{ $img := imageConfig $imgURL }}
+    <img src="/img/twitter/{{ .Get 1 }}.webp" alt="Miniatura de Twitter" loading="lazy" decoding="async" width="{{ $img.Width }}" height="{{ $img.Height }}">
+  </a>
+</figure>

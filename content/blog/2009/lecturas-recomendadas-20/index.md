@@ -1,0 +1,30 @@
+---
+title: 'Lecturas recomendadas'
+description: 'Artículos de noviembre'
+date: Mon, 07 Dec 2009 03:27:39 +0000
+draft: false
+tags: ['Internet']
+categories: ['Varios']
+---
+
+Como se acerca la Navidad, os dejo unos cuantos regalitos en forma de enlaces a artículos interesantes. ¡Que no se os atraganten! :smile:
+
+*   [**No nos hagan caso**](http://www.gamesajare.com/2.0/no-nos-hagan-caso/): En **GamesAjare** reflexionan sobre los peligros de escuchar a los usuarios. La democratización no siempre es buena.
+*   [**Las Aventuras Conversacionales**](http://www.gameunder.es/las-aventuras-conversacionales/): Si ya llevas unos añitos en este mundillo, seguro que este artículo consigue que derrames alguna lagrimilla nostálgica. Y si eres novato, siempre es un buen momento para descubrir el género de la ficción interactiva...
+*   [**Designing story-based games**](http://jordanmechner.com/blog/2009/11/designing-story-based-games/): El gran **Jordan Mechner** -sí, sí,... el creador de "_Prince of Persia_"- nos recuerda unos consejos que dio a los diseñadores de videojuegos hace más de una década, y que siguen igual de vigentes hoy en día.
+*   [**El Método Pacman**](http://glintas.blogspot.com/2009/11/el-metodo-pacman.html): **Chibimogu** destaca algunas de las anécdotas que cuenta **Toru Iwatani** en su libro. ¿Sabías que es un apasionado de [los juegos de pinball](/mis-juegos-de-pinball-favoritos/)?
+*   [**No eres un jugón, eres un hooligan idiota**](http://david.dantoine.org/comentario/noticia/86/#86): A **David** no le gusta el panorama actual de los medios especializados en videojuegos. ¿Será que las compañías ejercen más presión de la que pensamos?
+*   [**Principio de aversión por lo vintage**](http://gameart.es/2009/11/principio-de-aversion-por-lo-vintage/): Otro que está "quejica" es **Álex Subaru**, que en su retomado blog **GameArt** hace una petición para que los medios y la industria no se escuden en lo retro como excusa para no ofrecer contenidos de calidad. ¿Estáis de acuerdo?
+*   [**Spectrum**](http://dosisminima.wordpress.com/2009/11/10/spectrum/): El señor **Tones** nos hace pensar sobre la importancia de las carátulas de [Azpiri](/alfonso-azpiri/) en una época en la que había que llamar la atención como fuese.
+*   [**Luis Royo, cuando el grafismo puede llamarse arte**](http://www.thevideogameculture.com/2009/11/luis-royo-cuando-el-grafismo-puede.html): Otro grande de esa época fue **Luis Royo**, que aunque no solía hacer portadas de videojuegos por encargo, tuvo bastante protagonismo en las estanterías de nuestro país.
+*   [**Del dibujo al píxel: portadas y videojuegos (I)**](http://elpixeblogdepedja.com/2009/11/del-dibujo-al-pixel-portadas-y-videojuegos-i.html): **Pedja** también habla de estos y otros maestros del pincel, y de como se plasmaba finalmente su arte en los videojuegos.
+*   [**Historia de los videojuegos vol. 1**](http://www.videoshock.es/2009/11/20/historia-de-los-videojuegos-vol-1/): Este artículo de **Videoshock** encabeza una serie de artículos históricos que se han publicado estos días, y es que parece que todos se han puesto de acuerdo.
+*   [**A toda máquina XVIII: Magnavox Odyssey**](http://jaimixx.lacoctelera.net/post/2009/11/19/a-toda-maquina-xviii-magnavox-odyssey): Seguimos con este estupendo texto de **Jaimixx**, en el que habla de la primera consola de la historia.
+*   [**\[Retro\] Playstation, el pelotazo de Sony**](http://wildgames.es/retro-playstation-el-pelotazo-de-sony/): En **Wildgames** avanzan unos cuantos años hasta el lanzamiento de una de las consolas más populares que ha habido nunca. ¿Hay alguien que no conozca "_la plei_"?
+*   [**Las crónicas de Activision**](http://yocreoqueno.com/2009/11/10/las-cronicas-de-activision/): **ElRosso** da un repaso a los orígenes de la primera third party de la historia, hasta la pequeña revolución del señor **Kotick**. Sí, ese que cree que los juegos deberían costar cienes y cienes de euros :yum:
+*   [**Los “Patitos Feos” del Software Español 26: “Patitos” a Cinco Duros**](http://www.webxprs.com/blog/2009/11/06/patitos-feos-26-arcades/): **The Punisher** comenta todas las máquinas recreativas paridas en nuestro país... que no son pocas precisamente.
+*   [**La breve historia de Internet (1969-1999)**](http://bocabit.com/tecnologia/informatica/internet/la-breve-historia-de-internet-1969-1999.php): Cambiando de tercio, pero con el pasado como elemento común, tenemos esta traducción que han hecho en **Bocabit** de un articulo publicado originalmente en [Six Revisions](http://sixrevisions.com/resources/the-history-of-the-internet-in-a-nutshell/). No os perdáis [la segunda parte](http://bocabit.com/tecnologia/informatica/internet/la-breve-historia-de-internet-2000-2009.php).
+*   [**La mujer eructa**](http://danteneverdies.wordpress.com/2009/11/10/la-mujer-eructa/): Para soltar unas risas después de tanto artículo histórico, os dejo con este peculiar "análisis" de "_La Maldición_" por parte de **DanteNeverDies** :)
+*   [**Sherlock Holmes, de Hayao Miyazaki**](http://www.ionlitio.com/cine-tv/sherlock-holmes-de-hayao-miyazaki/): En **ión litio** recuerdan una de las series más conocidas de **Miyazaki**... aunque por aquel entonces muchos todavía no sabíamos lo grande que era.
+*   [**Recomendaciones a la hora de comprar una cámara digital**](http://luipermom.wordpress.com/2009/11/18/recomendaciones-a-la-hora-de-comprar-una-camara-digital/): Si estáis pensando en comprar una cámara estas Navidades, seguro que los consejos de **Luipermom** os vienen de perlas.
+*   [**¿Cuál ha sido el momento más crítico en la historia de la humanidad?**](http://www.maikelnai.es/2009/11/10/cual-ha-sido-el-momento-mas-critico-en-la-historia-de-la-humanidad/): Por último, os dejo un artículo de **Maikelnai** para reflexionar... y es que la humanidad las ha pasado canutas :yum:

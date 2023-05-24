@@ -1,0 +1,15 @@
+<figure {{ if isset .Params `class` }}class="{{ .Get "class" }}"{{ end }}>
+  {{ if isset .Params `href` }}<a href="{{ .Get "href" | safeURL }}">{{ end }}
+
+  {{ $img := $.Page.Resources.GetMatch (.Get "src") }}
+  {{ if $img }}
+    <img src="{{ .Get "src" | safeURL }}" alt="{{ .Get "alt" }}" loading="lazy" decoding="async" width="{{ $img.Width }}" height="{{ $img.Height }}">
+  {{ else if hasPrefix (.Get "src") "/img" }}
+    {{ $imgURL := print "/static" (.Get "src") }}
+    {{ $img := imageConfig $imgURL }}
+    <img src="{{ .Get "src" | safeURL }}" alt="{{ .Get "alt" }}" loading="lazy" decoding="async" width="{{ $img.Width }}" height="{{ $img.Height }}">
+  {{ end }}
+  {{ if isset .Params `href` }}</a>{{ end }}
+
+  {{ if isset .Params `title` }}<figcaption>{{ .Get "title" | markdownify | emojify }}</figcaption>{{ end }}
+</figure>
