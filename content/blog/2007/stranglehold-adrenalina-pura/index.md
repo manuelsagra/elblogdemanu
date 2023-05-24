@@ -4,7 +4,7 @@ description: 'Tiros de película'
 date: Thu, 11 Oct 2007 05:19:56 +0000
 draft: false
 tags: ['Juegos', 'PlayStation 3']
-categories: ['Opunión']
+categories: ['Opinión']
 ---
 
 {{< fg src="sh.webp" alt="Stranglehold" >}}
