@@ -58,7 +58,7 @@ Gracias a la [Asociación Retro Cultural de Amigos de la Informática Clásica](
 
 {{< fg src="retroconsolas64.webp" alt="RetroConsolas64" >}}
 
-Los amantes de los arcades seguro que disfrutaron de lo lindo, ya que [Arcade Vintage](https://museoarcadevintage.com/) llevó varias máquinas a **RetroAlacant**, y la asociación [Retro Marcianitos](https://retromarcianitos.es/) --situada en la misma ciudad-- montó una pequeña exposición para ver los diferentes formatos en los que se publicaban los juegos en los salones recreativos.
+Los amantes de los arcades seguro que disfrutaron de lo lindo, ya que la asociación [Retro Marcianitos](https://retromarcianitos.es/) --situada en la misma ciudad-- llevó varias máquinas a **RetroAlacant**, y montó una pequeña exposición para ver los diferentes formatos en los que se publicaban los juegos en los salones recreativos.
 
 {{< fg src="arcades.webp" alt="Retro Maquinitas" >}}
 
