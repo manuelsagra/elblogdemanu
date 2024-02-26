@@ -1,0 +1,19 @@
+{{ partial "header.html" }}
+
+<article>
+    <header>
+      <h1>{{ .Title | markdownify }}</h1>
+      {{ if .Description }}
+      <p>{{ .Description | markdownify }}</p>
+      {{ end }}
+    </header>
+
+    <main>
+    {{ .Content }}
+    </main>
+
+</article>
+
+</body>
+</html>
+
