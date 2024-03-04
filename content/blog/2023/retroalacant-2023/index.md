@@ -28,7 +28,7 @@ Por suerte, estaban puestos como el de [GamePress](https://www.gamepress.es/), e
 
 ## Desarrollo de videojuegos
 
-En el centro de tanta tienda, había tres expositores que mostraban sus desarrollos. En primer lugar, estaba [George Prescott](), que mostró sus juegos [Silicon Galaxy](https://silicongalaxy.itch.io/silicon-galaxy) y [Executanks](https://silicongalaxy.itch.io/executanks), con temáticas distintas pero con un look vectorial bastante original.
+En el centro de tanta tienda, había tres expositores que mostraban sus desarrollos. En primer lugar, estaba [George Prescott](https://silicongalaxy.itch.io/), que mostró sus juegos [Silicon Galaxy](https://silicongalaxy.itch.io/silicon-galaxy) y [Executanks](https://silicongalaxy.itch.io/executanks), con temáticas distintas pero con un look vectorial bastante original.
 
 {{< fg src="gprescott.webp" alt="George Prescott y sus juegos" >}}
 
