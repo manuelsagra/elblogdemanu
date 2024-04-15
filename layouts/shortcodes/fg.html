@@ -3,7 +3,7 @@
 
   {{ $img := $.Page.Resources.GetMatch (.Get "src") }}
   {{ if $img }}
-    <img src="{{ .Get "src" | safeURL }}" alt="{{ .Get "alt" }}" loading="lazy" decoding="async" width="{{ $img.Width }}" height="{{ $img.Height }}">
+    <img src="{{ .Get "src" | safeURL }}" {{ if isset .Params `srcset` }}srcset="{{ .Get "srcset" }}"{{ end }} alt="{{ .Get "alt" }}" loading="lazy" decoding="async" width="{{ $img.Width }}" height="{{ $img.Height }}">
   {{ else if hasPrefix (.Get "src") "/img" }}
     {{ $imgURL := print "/static" (.Get "src") }}
     {{ $img := imageConfig $imgURL }}
