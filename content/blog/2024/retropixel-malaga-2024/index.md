@@ -119,6 +119,12 @@ Estaban acompañados de **Sergio** ([Lost PC Games](https://www.instagram.com/lo
 
 {{< fg src="pc.webp" srcset="pc.webp, pc-2x.webp 2x" alt="Colección de juegos de PC" >}}
 
+### RetroWar
+
+Allí pude ver por primera vez un juego de mesa llamado [RetroWar](https://retrowargame.com/), que tiene diversos tipos de cartas y varias modalidades. Está creado por un padre coleccionista después de ver cómo sus hijos dedican muchas horas al móvil... así que tendré que echarle un ojo :smiley:
+
+{{< fg src="retrowar.webp" srcset="retrowar.webp, retrowar-2x.webp 2x" alt="RetroWar" >}}
+
 ### Yo Tenía un Juego
 
 Por último, los chicos de la revista digital [Yo Tenía un Juego](https://www.yoteniaunjuego.com/) volvieron a Málaga a promocionar su proyecto, y a deleitar a los asistentes con sus juegos.
