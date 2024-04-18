@@ -198,4 +198,8 @@ De hecho, es encomiable la labor de los miembros de **ALTAIR**, ya que los expos
 Más información:
 
 * [Reportaje de AUA](https://auamstrad.es/retroescena/retropixel-malaga/)
+* [Artículo de Esteban Saiz](https://mareosdeungeek.es/retropixel-malaga-2024/)
 * [Vídeo de David Crespo](https://www.youtube.com/watch?v=MpuRBDQ2WkE)
+* [Vídeo de VidaExtraRetro](https://www.youtube.com/watch?v=dYBLkvEkoYo) 
+* [Vídeo de Indelain](https://www.youtube.com/watch?v=FSlIZ-xzFeE)
+* [Vídeo de Javi Ortiz](https://www.youtube.com/watch?v=MFLPs4IvwyU)
